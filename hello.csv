@@ -1,0 +1,6 @@
+rows = [
+    ["Name", "Age", "Occupation"],
+    ["John", "28", "Engineer"],
+    ["Sara", "25", "Doctor"],
+    ["Mike", "22", "Student"],
+]
